@@ -1,4 +1,4 @@
-# React Browserify SPA seed
+# React seed
 
 A very opinionated seed for creating Single Page Apps that uses Browserify, React and Rework.
 
@@ -23,10 +23,6 @@ Just run `npm install` to get all the dependencies and then use:
 
 You can see the other tasks you can run in the [package.json scripts](https://github.com/mgonto/react-browserify-spa-seed/blob/master/package.json#L18-L29)
 
-
-## Feedback
-
-Do you have any feedback about the app? Just let me know :)
 
 ## License
 
